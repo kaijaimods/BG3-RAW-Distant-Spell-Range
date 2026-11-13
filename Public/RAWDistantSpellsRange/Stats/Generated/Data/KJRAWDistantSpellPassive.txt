@@ -1,0 +1,5 @@
+new entry "Metamagic_Distant"
+type "PassiveData"
+using "Metamagic_Distant"
+data "Description" "h1d4ccc9age6b1g4650ga57agc272940533be;1"
+data "Boosts" "UnlockSpellVariant(DistantSpellCheck(),ModifyTargetRadius(Multiplicative,2),ModifyUseCosts(Add,SorceryPoint,1,0));UnlockSpellVariant(DistantTouchSpellCheck(),ModifyTargetRadius(Override,9),ModifySpellFlags(Melee,0),ModifyUseCosts(Add,SorceryPoint,1,0))"
